@@ -29,6 +29,6 @@ A huge shoutout to Colt Steele for his amazing Web Developer Bootcamp course on 
 
 ## Let's Connect! 👋
 
-If you liked this project or want to chat about web development, feel free to reach out! You can find me on [LinkedIn](https://[www.linkedin.com/in/yourname](https://www.linkedin.com/in/tarunaaditya/)). Let's build cool stuff together! 😄
+If you liked this project or want to chat about web development, feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/tarunaaditya/). Let's build cool stuff together! 😄
 
 Thanks again for checking out my project. Happy coding! 💻
