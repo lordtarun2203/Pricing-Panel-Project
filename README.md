@@ -4,7 +4,7 @@ Hey there! Thanks for stopping by. 👋
 
 This project is a simple pricing panel inspired by the amazing Colt Steele's Web Developer Bootcamp course. It's a fun little project that showcases my journey into web development and serves as a playground for experimenting with HTML, CSS, and maybe a dash of JavaScript.
 
-Working Link - https://pricing-panel-project.vercel.app/
+Working Link - [https://pricing-panel-project.vercel.app/](https://pricing-panel-project-mrn9.vercel.app/)
 
 ## What's Inside? 🤔
 
